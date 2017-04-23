@@ -10,4 +10,7 @@ numeric.mul(x,y) - Does scalar multiplication with "x" and "y" regardless if x a
 
 numeric.div(x,y) and numeric.add(x,y) used in this case for doing scalar addition and division with a matrix
 
-
+# TODO
+- Use NodeJS to run a neural network
+- Implement with a browser interface with javascript
+- Implement data visualization of the neural network in the browser
